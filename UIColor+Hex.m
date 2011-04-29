@@ -1,4 +1,4 @@
-#import "UIColor+String.h"
+#import "UIColor+Hex.h"
 
 @implementation UIColor (Hex)
 
